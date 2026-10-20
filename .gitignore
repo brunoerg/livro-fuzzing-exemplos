@@ -1,0 +1,15 @@
+build/
+cap2-arbitrary/target/
+cap2-arbitrary/fuzz/target/
+cap2-arbitrary/fuzz/artifacts/
+cap2-arbitrary/fuzz/corpus/
+cap2-arbitrary/fuzz/coverage/
+cap4-go/testdata/
+__pycache__/
+corpus/
+crash-*
+leak-*
+timeout-*
+oom-*
+*.profraw
+*.profdata
